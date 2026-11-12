@@ -852,7 +852,7 @@ footer {
 .enhanced-footer {
     background: #6B46C1;
     color: white;
-    padding: 0.5rem 0;
+    padding: 1rem 0;
     text-align: center;
 }
 
@@ -871,9 +871,10 @@ footer {
 }
 
 .enhanced-footer .footer-address {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.35rem;
     font-size: 0.9rem;
-    opacity: 0.9;
+    line-height: 1.5;
+    opacity: 0.95;
 }
 
 .enhanced-footer .footer-copyright {
